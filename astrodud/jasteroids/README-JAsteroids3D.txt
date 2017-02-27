@@ -71,7 +71,7 @@ Pac-Man, Defender, and so on.
 
 The source code and library are distributed under the GPL and LGPL
 (see COPYING and COPYING.LIB). The applet may be used free of charge
-on any web site so long as a link to http://astrodud.googlepages.com/JAsteroids3d.html is
+on any web site so long as a link to http://djreiss.googlepages.com/JAsteroids3d.html is
 visibly included in the applet's web page. This may be done with the
 understanding that the applet and library are distributed in the hope
 that they will be useful, but WITHOUT ANY WARRANTY, to the extent
